@@ -1,9 +1,6 @@
 package za.ac.cput;
 
-<<<<<<< HEAD
-public class Content {
-}
-=======
+
 import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
@@ -260,4 +257,3 @@ class RoundBorder extends AbstractBorder
     }
 }
 
->>>>>>> creating the content
